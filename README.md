@@ -1,4 +1,4 @@
-<center><h1>Shomehow(Jeon-gaeun)</h1></center>
+<center><h1>Somehow(Jeon-gaeun)</h1></center>
 
 <center>Hello there! 👋🏼</center> <br/>
 
